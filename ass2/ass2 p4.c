@@ -9,4 +9,5 @@ int main()
     b=a/b;
     a=a/b;
     printf("a=%d b=%d",a,b);
+    return 0;
 }

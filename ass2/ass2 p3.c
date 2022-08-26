@@ -9,4 +9,5 @@ int main()
     a=b;
     b=c;
     printf("swapped values of a=%d and b=%d ",a,b);
+    return 0;
 }

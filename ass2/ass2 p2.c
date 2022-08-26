@@ -7,4 +7,5 @@ int main()
     scanf("%d",&n);
     r=n/10;
     printf("number without last digit:%d",r);
+    return 0;
 }
